@@ -1,1 +1,1 @@
-Domain generlization with Latent Search.
+Domain generalization with Latent Search.
