@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/anony34/Latent_Search_DG.git
+git clone https://github.com/prinshul/Latent_Search_DG.git
 cd Latent_Search_DG
 conda create -y -n ltp python=3.10
 conda activate ltp
