@@ -24,5 +24,7 @@ bash run.sh --arch resnet50 --select_lr
 
 ```bash
 cd officehome_resnet18
-bash run.sh
+Download dataset from https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view?resourcekey=0-2SNWq0CDAuWOBRRBL7ZZsw
+unzip OfficeHomeDataset_10072016.zip
+DATA=OfficeHomeDataset_10072016 bash run.sh
 ```
