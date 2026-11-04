@@ -21,3 +21,8 @@ bash run.sh
 cd pacs_resnet50
 bash run.sh --arch resnet50 --select_lr
 ```
+
+```bash
+cd officehome_resnet18
+bash run.sh
+```
